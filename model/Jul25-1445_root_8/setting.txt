@@ -1,0 +1,20 @@
+------------------ start ------------------
+param_epoch : 10
+param_batch_size : 40
+data_dir : ./dataset/MICCAI_128/
+pre_train : False
+init_lr : 0.001
+weights_path : 
+param_local_win : [[96 64]
+ [60 40]
+ [60 40]
+ [40 20]
+ [32 16]]
+param_augment_num : 80
+param_recurrent_num : 5
+image_size : (704, 384)
+param_flipped : True
+param_shuffle : True
+param_landmark_num : 17
+root_idx : 8
+------------------- end -------------------
