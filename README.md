@@ -5,7 +5,7 @@ The motivation of this work is to tackle the challenging task of vertebral landm
 
 For more details, please refer to our paper.
 
-<img src="./fig/fig.png" height='350px'>
+<img src="./fig/fig.png" height='340px'>
 
 RouterNet originally initialize the root point automatically. Besides, to make the results more controllable, we develop a doctor-friendly demo which permits a manual initialization.
 <table><tr style="border:none" align="center">
