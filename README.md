@@ -5,6 +5,7 @@ The motivation of this work is to tackle the challenging task of vertebral landm
 
 For more details, please refer to our paper.
 
+<<<<<<< HEAD
 <img src="./fig/fig.png" height='400px'>
 
 Since the actual image size is inconsistent, the initial point may not be suitable. In view of this, we have developed a simple and doctor-friendly interactive demo for vertebral landmark localization of the actual X-ray image. 
@@ -16,6 +17,13 @@ Since the actual image size is inconsistent, the initial point may not be suitab
 </tr></table>
 
 [//]: # (<img src='./fig/SpineDetection_demo.gif' height='500px'>)
+=======
+<img src="fig.png" height='348px'>
+
+Since the actual image size is inconsistent, the initial point may not be suitable. In view of this, we have developed a simple and doctor-friendly interactive demo for vertebral landmark localization of the actual X-ray image. 
+
+<img src='SpineDetection_demo.gif' height='400px'>
+>>>>>>> 92d0953401fabb8e10256be1c9cea0509586f8fb
 
 
 ## Dependencies
@@ -69,13 +77,5 @@ The implementation in this code repository has the following updates compared to
 
 Please note that these updates may affect the results, so be sure to consider these updates when using or evaluating the codes.
 
-[//]: # (## Citation)
 
-[//]: # (If you use this code as part of any published research, we'd really appreciate it if you could cite the following paper:)
-
-[//]: # (```)
-
-[//]: # (@ARTICLE{})
-
-[//]: # (```)
 
