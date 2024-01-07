@@ -5,14 +5,14 @@ The motivation of this work is to tackle the challenging task of vertebral landm
 
 For more details, please refer to our paper.
 
-<img src="./fig/fig.png" height='350px'>
+<img src="./fig/fig.png" height='375px'>
 
 Since the actual image size is inconsistent, the initial point may not be suitable. In view of this, we have developed a simple and doctor-friendly interactive demo for vertebral landmark localization of the actual X-ray image. 
 
 <table><tr style="border:none" align="center">
-<td style="border:none"><img src='./fig/box2landmarks.gif' height="450px"> <p align="center">Outline the spine to obtain<br> all landmarks</p></td>
-<td style="border:none"><img src='./fig/point2landmarks.gif' height="450px"><p align="center">Click the 1-st vertebra to obtain<br> all landmarks</p></td>
-<td style="border:none"><img src='./fig/point2cobb.gif' height="450px"><p align="center" >Click the 9-th vertebra to obtain<br> cobb angles</p></td>
+<td style="border:none"><img src='./fig/box2landmarks.gif' height="435px"> <p align="center">Outline the spine to obtain<br> all landmarks</p></td>
+<td style="border:none"><img src='./fig/point2landmarks.gif' height="435px"><p align="center">Click the 1-st vertebra to obtain<br> all landmarks</p></td>
+<td style="border:none"><img src='./fig/point2cobb.gif' height="435px"><p align="center" >Click the 9-th vertebra to obtain<br> cobb angles</p></td>
 </tr></table>
 
 
