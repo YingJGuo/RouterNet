@@ -7,11 +7,17 @@ For more details, please refer to our paper.
 
 <img src="./fig/fig.png" height='340px'>
 
-RouterNet originally initialize the root point automatically. Besides, to make the results more controllable, we develop a doctor-friendly demo which permits a manual initialization.
+RouterNet originally initializes the root point automatically. Besides, to make the results more controllable, we develop a doctor-friendly demo which permits a manual initialization.
 <table><tr style="border:none" align="center">
 <td style="border:none"><img src='./fig/box2landmarks.gif' height="435px"> <p align="center">Draw box for initialization</p></td>
 <td style="border:none"><img src='./fig/point2cobb.gif' height="435px"><p align="center" >Click for initialization</p></td>
 </tr></table>
+
+RouterNet shows adaptability on other anatomical regions and X-ray views of the body, which is verified on the lateral-view X-ray images from NHANES II. 
+<table><tr style="border:none" align="center">
+<td style="border:none"><img src='./fig/box2landmarks_lateral.gif' height="435px"><p align="center" >Lumber lateral X-ray image <br>landmarks localization</p></td>
+</tr></table>
+    
 
 
 ## Dependencies
