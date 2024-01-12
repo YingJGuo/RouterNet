@@ -1,7 +1,7 @@
 # Hierarchical-Vertebral-Landmark-Localization
 The implementation of RouterNet, proposed in the paper "RouterNet: Hierarchical Point Routing Network for Robust Vertebral Landmark Localization on AP X-ray Images". 
 
-The motivation of this work is to tackle the challenging task of vertebral landmark localization in AP X-ray images using a hierarchical and robust approach. Specifically, we propose RouterNet, a novel CNN that employs a divide-and-conquer strategy by hierarchically routing from the spinal center to each vertebral corner, enabling precise and reliable landmark localization. 
+The motivation of this work is to tackle the challenging task of vertebral landmark localization in AP X-ray images using a divide-and-conquer approach. Specifically, a novel model termed RouterNet, starts from an initial root point, and then gradually routes it onto more and more points with finer and finer semantics. RouterNet naturally couples such point routing process with its hierarchical and multi-scale feature learning, and shows superior performance over other state-of-the-arts on both public and private datasets. 
 
 For more details, please refer to our paper.
 
