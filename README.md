@@ -31,7 +31,7 @@ The packages we used in this repository are listed in below.
 - albumentations==1.3.1
 - einops==0.6.1
 
-## Detailed reproducibility infomations
+## Detailed reproducibility informations
 - Seed: 3407
 - GPU: NVIDIA RTX 3090
 - CPU: Intel Xeon Gold 5220R
