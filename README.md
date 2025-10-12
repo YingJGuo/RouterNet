@@ -31,10 +31,16 @@ The packages we used in this repository are listed in below.
 - albumentations==1.3.1
 - einops==0.6.1
 
+## Detailed reproducibility infomations
+- Seed: 3407
+- GPU: NVIDIA RTX 3090
+- CPU: Intel Xeon Gold 5220R
+- flops: 27.0G
+- pramas: 23.3M
+
 ## Quickly start
 To quickly start the code, an example is provided for training and validation. 
 You can simply run the `train.py` for training and `val.py` for validation.
-
 
 ## Dataset
 The available public datasets could be downloaded here:
